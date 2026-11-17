@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Baloot Pro",
+    "slug": "baloot-pro",
+    "scheme": "balootpro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.samidev71519.balootpro"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
